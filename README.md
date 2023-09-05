@@ -10,12 +10,10 @@ But the it is not sufficient.
 
 ### Additional Setup
 
-1. Add additional launch configuration
+1. Add additional launch configuration. add the following into `launch.json`
 
 ```json
-// 
-// add the following into launch.json
-//
+
     {
             "type": "node",
             "runtimeVersion": "20.5.1",
