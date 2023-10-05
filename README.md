@@ -45,3 +45,7 @@ nvm use v20.5.1
 ```
 
 After all of the above, visual debugging for `typescript` works in `vscode`.
+
+# For debugging nestJS
+
+Follow this https://dev.to/gentax/nestjs-right-settings-for-debugging-kl0#:~:text=open%20to%20VSCode%20settings%2C%20then,select%20Always%20from%20the%20dropdown.&text=It%20enables%20debug%20and%20console. 
